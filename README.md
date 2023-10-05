@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stefan Simerea and I'm a Jr Web Developer.</h1>
+<h1 align="center">Hi 👋, I'm Stefan Simerea and i'm a Jr Web Developer.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefansimereaa&label=Profile%20views&color=0e75b6&style=flat" alt="stefansimereaa" /> </p>
 
