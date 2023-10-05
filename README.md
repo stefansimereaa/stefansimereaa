@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stefansimereaa&label=Profile%20views&color=0e75b6&style=flat" alt="stefansimereaa" /> </p>
 
-<p>My journey into the world of programming began in high school, where I immediately developed a profound passion for it. I found programming to be an inherently natural fit, relishing every moment of debugging and problem-solving. After high school, I continued to study and create small scripts to enhance my daily routines with various programs or games, even delving into creating mods or scripts for some famous video games.</p>
-<br>
-<p>Given my passion for this world, I decided to enroll in Boolean and successfully completed the Boolean Full Stack Web Developer course in September 2023. Despite the potential lack of extensive professional experience, I have cultivated a strong sense of autonomy in my work, supported by solid research, logical reasoning, and creative problem-solving skills.</p>
+<p>My journey into the world of programming began in high school, where I immediately developed a profound passion for it. I found programming to be an inherently natural fit, relishing every moment of debugging and problem-solving. After high school, I continued to study and create small scripts to enhance my daily routines with various programs or games, even delving into creating mods or scripts for some famous video games.
+
+Given my passion for this world, I decided to enroll in Boolean and successfully completed the Boolean Full Stack Web Developer course in September 2023. Despite the potential lack of extensive professional experience, I have cultivated a strong sense of autonomy in my work, supported by solid research, logical reasoning, and creative problem-solving skills.
 
 In addition to my technical skills, I have refined valuable social and teamwork abilities throughout my journey. My successful participation in team sports and esports from a young age has helped me develop my teamwork and social skills.
 
