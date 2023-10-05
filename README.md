@@ -13,3 +13,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stefansimereaa&show_icons=true&locale=en&layout=compact" alt="stefansimereaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stefansimereaa&show_icons=true&locale=en" alt="stefansimereaa" /></p>
+s
