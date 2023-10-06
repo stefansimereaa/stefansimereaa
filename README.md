@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefan Simerea a Jr Web Developer.</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stefansimereaa&label=Profile%20views&color=0e75b6&style=flat" alt="stefansimereaa" /> </p>
+<!-- Number views ---!>
+<!--  <img src="https://komarev.com/ghpvc/?username=stefansimereaa&label=Profile%20views&color=0e75b6&style=flat" alt="stefansimereaa" /> </p> --!><p align="left">
 
 <p>My journey into the world of programming began in high school, where I immediately developed a profound passion for it. I found programming to be an inherently natural fit, relishing every moment of debugging and problem-solving. After high school, I continued to study and create small scripts to enhance my daily routines with various programs or games, even delving into creating mods or scripts for some famous video games.
 
