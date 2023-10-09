@@ -3,13 +3,9 @@
 <!-- Number views ---!>
 <!--  <img src="https://komarev.com/ghpvc/?username=stefansimereaa&label=Profile%20views&color=0e75b6&style=flat" alt="stefansimereaa" /> </p> <p align="left"> --!>
 
-<p>My journey into the world of programming began in high school, where I immediately developed a profound passion for it. I found programming to be an inherently natural fit, relishing every moment of debugging and problem-solving. After high school, I continued to study and create small scripts to enhance my daily routines with various programs or games, even delving into creating mods or scripts for some famous video games.
-
-Given my passion for this world, I decided to enroll in Boolean and successfully completed the Boolean Full Stack Web Developer course in October 2023. Despite the potential lack of extensive professional experience, I have cultivated a strong sense of autonomy in my work, supported by solid research, logical reasoning, and creative problem-solving skills.
-
-In addition to my technical skills, I have refined valuable social and teamwork abilities throughout my journey. My successful participation in team sports and esports from a young age has helped me develop my teamwork and social skills.
-
-My journey so far has been marked by a deep passion for programming, a commitment to continuous growth, and a diverse skill set that extends beyond the realm of code. </p>
+<p>I am ready to get involved and eager for new challenges, constantly enthusiastic about the dynamic evolution of my world. My path begins at ITS, a five-year school training course with a strong IT focus, where I studied various programming languages ​​in depth. In year five, I built a website dedicated to cybersecurity using WordPress. My
+passion for programming pushed me to seek independent training in my time
+free. This continuous search for knowledge led me to my current training at Boolean where I have developed knowledge on both the front/back end and am working hard to become a Jr. Full Stack Developer. I am determined to always stay updated and actively contribute to the growth of the programming field.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
